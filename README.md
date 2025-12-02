@@ -1,0 +1,2 @@
+# clothes_remover_v0.safetensors
+clothes_remover_v0.safetensors
